@@ -1,0 +1,8 @@
+{
+  "name": "ionic4-auto-complete",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Elototo/ionic4-auto-complete.git",
+  "author": "Emir Muminoglu <me@emir.pw>",
+  "license": "MIT"
+}
